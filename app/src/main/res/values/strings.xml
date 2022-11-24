@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reminda</string>
+    <string name="notification_channel_name">Alarms</string>
+    <string name="notification_channel_description">Alarm notifications.</string>
+    <string name="no_alarms">No alarms</string>
+    <string name="no_alarms_icon_alt_description">No alarms icon</string>
+</resources>

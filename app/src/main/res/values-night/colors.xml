@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_light">#F06292</color>
+    <color name="ic_launcher_background">#D81B60</color>
+    <color name="no_alarms_icon">@android:color/tertiary_text_dark</color>
+    <color name="no_alarms_text">@android:color/tertiary_text_dark</color>
+    <color name="list_title">@android:color/primary_text_dark</color>
+    <color name="list_time">@android:color/secondary_text_dark</color>
+</resources>
